@@ -69,7 +69,7 @@ It's pretty simple:
 - With the default settings, four bars makes up a part (verse or chorus) of the song. The order in which these parts are played is specified (default is `['verse', 'verse', 'chorus', 'chorus','verse','verse','chorus','chorus','verse','verse','chorus','chorus']`). The same one bar of drums is repeated throughout the song.
 - Notes, chords, keys, and tempo are all randomly picked as the program runs, so every song is different.
 
-You can listen to some songs it made [here](https://soundcloud.com/ckdotca/sets/jsb2)
+You can listen to some songs it made [here](https://soundcloud.com/ckdotca/sets/jsb2).
 
 ### Heads up!
 

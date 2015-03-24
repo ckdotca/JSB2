@@ -1,1 +1,1 @@
-these are SoundFont 2 audio sample files
+these are SoundFont 2 audio sample files (filenames need to be all one word: no spaces)

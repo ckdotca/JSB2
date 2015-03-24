@@ -169,7 +169,7 @@ class verse():
      
     def get_bass_sample(self):
         """Returns the filename of the bass sample"""
-        return 'Acoustic_Bass.sf2'
+        return 'Acoustic_Bass.sf2' #  make sure there are no spaces in the filename
            
     def set_drums(self):
         """Adds drum notes to the list of notes for the song part"""
@@ -210,7 +210,7 @@ class verse():
 
     def get_drum_sample(self):
         """Returns the filename of the drum sample"""
-        return 'DrumsDouglasNaturalStudioKitV2.sf2'
+        return 'DrumsDouglasNaturalStudioKitV2.sf2' #  make sure there are no spaces in the filename
 
     def set_rhythm(self):
         """Adds the rhythm notes to the list of notes for the song part"""
@@ -232,7 +232,7 @@ class verse():
     
     def get_rhythm_sample(self):
         """Returns the filename of the rhythm sample"""
-        return 'AJH_Piano.sf2'
+        return 'AJH_Piano.sf2' #  make sure there are no spaces in the filename
 
     def set_melody(self):
         """Adds the melody notes to the list of notes for the song part"""
@@ -258,7 +258,7 @@ class verse():
 
     def get_melody_sample(self):
         """Returns the filename of the melody sample"""
-        return 'AJH_Piano.sf2'
+        return 'AJH_Piano.sf2' #  make sure there are no spaces in the filename
 
     def get_first_melody_index(self):
         """Returns the melody_set index of the midi offset"""
